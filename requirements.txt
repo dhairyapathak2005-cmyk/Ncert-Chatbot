@@ -1,0 +1,17 @@
+# Python 3.11. Versions verified when this was written.
+langchain-core>=1.6,<2
+langchain-text-splitters>=1.1,<2
+langgraph>=1.2,<2
+langchain-nvidia-ai-endpoints>=1.4,<2
+faiss-cpu>=1.15,<2
+sentence-transformers>=6.1,<7
+pymupdf>=1.28,<2
+fastapi>=0.142
+uvicorn>=0.38
+python-dotenv>=1.0
+numpy>=2.0
+requests>=2.31
+streamlit>=1.40
+# tests
+pytest>=8.0
+httpx>=0.28

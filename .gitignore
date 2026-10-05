@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+
+# Large binary files – PDFs are downloaded locally, not committed
+data/pdfs/*.pdf
+
